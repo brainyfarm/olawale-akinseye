@@ -1,5 +1,10 @@
 # OOP - Mobile Phone Class
-## This is a javascript application that models a Mobile Phone.
+This is a javascript application that models a Mobile Phone.
+
+
+## Files
+* `phone.js` - The mobile phone application class 
+* `README.md` - App documentation 
 
 ## Documentation and Usage
 
