@@ -1,2 +1,2 @@
 # olawale-akinseye
-Andela Bootcamp assignments
+A repository containing my Andela Bootcamp assignments.
