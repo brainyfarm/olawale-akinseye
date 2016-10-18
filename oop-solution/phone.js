@@ -10,7 +10,7 @@ class Mobile {
     constructor(make, model, provider) {
         this.make = make;
         this.model = model;
-        this.provide = provider;
+        this.provider = provider;
         this.callHistory = [];
     }
 
