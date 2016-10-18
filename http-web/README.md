@@ -10,7 +10,7 @@ A nodejs console app that request for a random quote from a public API and print
 * `request-promise 4.1.1`
 
 ## Usage 
-* Run **`npm install`** to install project dependencies
+* Run **`npm install`** to install project dependencies.
 * Launch project and use **`node app.js`** everytime you need a new quote.
 
 ## API Credit
